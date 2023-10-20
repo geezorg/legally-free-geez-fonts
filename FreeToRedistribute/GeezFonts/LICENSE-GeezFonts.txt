@@ -1,0 +1,13 @@
+The fonts in this archive are products of the Geez Fonts company and have been made
+freely available for personal and commercial use by designer Yikunoamlak Ayalew.
+
+Copyright: Copyright (c) 2018-2019 by Geez Fonts. All rights reserved.
+
+URLs:
+  * https://linktr.ee/geezfonts
+
+Files:
+  * Geez Pixels 2.ttf
+      Trademark: Geez Pixels is a trademark of Geezfonts.
+  * GeezDigital_V1.ttf
+      Trademark: Geez Digital is a trademark of Geez Fonts.

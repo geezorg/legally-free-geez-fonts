@@ -1,0 +1,14 @@
+The TITUS Cyberbit font was created in copperation with Bitstream and the TITUS
+project of the University of Frankfurt.  It is free to use for both personal
+and commercial projects.
+
+Copyright: Copyright (c) Bitstream Inc / TITUS project, 2000. All rights reserved.
+
+Trademark: TITUS Cyberbit Basic is a trademark of the Bitstream Inc / TITUS project.
+
+URLs:
+  * https://fontsgeek.com/fonts/titus-cyberbit-basic-regular
+  * http://titus.uni-frankfurt.de/indexe.htm?/unicode/unitest2.htm#TITUUT
+
+Fonts:
+  * TITUS Cyberbit Basic Regular.ttf

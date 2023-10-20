@@ -1,0 +1,10 @@
+The ETH_B_GOFA font is designed and provided by Aklilu Debessay
+(aklilub@gmail.com) it is free to use for personal and commercial projects.
+
+Copyright: Copyright 2011 by Aklilu Debessay.
+
+URLs:
+  * https://en.maisfontes.com/eth-b-gofa.font
+
+Files:
+  * ETH_B_GOFA.ttf

@@ -1,0 +1,23 @@
+The fonts in the Wazéma collection are free to use, as-is, for both personal and
+commercial projects and must NOT be modified in any way.
+
+Copyright: Copyright (c) 2000-2011 by Welé Negga. All rights reserved.
+
+Trademarks:
+  A0 Addis Abeba Unicode is a trademark of Welé Negga.
+  A0 Desta Unicode is a trademark of Welé Negga.
+  A0 Tesfa Unicode is a trademark of Welé Negga.
+
+Contact:
+  Wazéma Ethiopic Unicode font and keyboard system.
+  Welé Negga
+  P. O. Box 1165, Croydon, CR9 2EB, United Kingdom.
+  Tel.: (+) 44 20 8251 2492
+
+URLs:
+  * http://www.gzamargna.net
+
+Files:
+  * A0AddisAbebaUnicode_20030827.ttf
+  * A0DestaUnicode_20030827.ttf
+  * A0TesfaUnicode_20030720.ttf

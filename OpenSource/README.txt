@@ -1,0 +1,161 @@
+The fonts in this directory are covered by the following OpenSource licenses:
+
+OFL-AbbaGarima.txt
+------------------
+  * AbbaGarima-Regular.ttf
+
+OFL-AbyssinicaSIL.txt
+---------------------
+  * AbyssinicaSIL-Regular.ttf
+
+OFL-Brana.txt
+-------------
+  * Brana-Regular.ttf
+
+OFL-Senamirmir.txt
+------------------
+  * EthiopicAbay-Light.ttf
+  * EthiopicAbay-Regular.ttf
+  * EthiopicLeTewahedo-Bold.ttf
+  * EthiopicLeTewahedo-BoldItalic.ttf
+  * EthiopicLeTewahedo-Italic.ttf
+  * EthiopicLeTewahedo-Regular.ttf
+  * EthiopicLessan-Light.ttf
+  * EthiopicLessan-Regular.ttf
+  * EthiopicSadiss-Light.ttf
+  * EthiopicSadiss-Regular.ttf
+
+OFL-Geez-Manuscript-Zemen.txt
+-----------------------------
+  * Geez-Manuscript-Zemen-COLR.ttf
+
+OFL-GeezHandwriting.txt
+------------------
+  * GeezHanOutArr.ttf
+  * GeezHanOutRul.ttf
+  * GeezHandwriting.ttf
+  * GeezHandwritingArrowsOnly.ttf
+  * GeezHandwritingArrowsRules.ttf
+  * GeezHandwritingBold.ttf
+  * GeezHandwritingDots.ttf
+  * GeezHandwritingDotsArrRules.ttf
+  * GeezHandwritingDotsArrows.ttf
+  * GeezHandwritingDotsRules.ttf
+  * GeezHandwritingOutArrRules.ttf
+  * GeezHandwritingOutlines.ttf
+  * GeezHandwritingRulesOnly.ttf
+  * GeezHandwritingwithArrows.ttf
+  * GeezHandwritingwithRules.ttf
+
+OFL-Mulat.txt
+-------------
+  * MulatAbay-Black.ttf
+  * MulatAbay-BlackItalic.ttf
+  * MulatAbay-Bold.ttf
+  * MulatAbay-BoldItalic.ttf
+  * MulatAbay-Italic.ttf
+  * MulatAbay-MediumItalic.ttf
+  * MulatAbay-Regular.ttf
+  * MulatAbay-Thin.ttf
+  * MulatAbay-ThinItalic.ttf
+  * MulatAddis-Bold.ttf
+  * MulatAddis-BoldItalic.ttf
+  * MulatAddis-Italic.ttf
+  * MulatAddis-Medium.ttf
+  * MulatAddis-Regular.ttf
+  * MulatAhmed-Italic.ttf
+  * MulatAhmed-Regular.ttf
+  * MulatAsmara-Regular.ttf
+  * MulatAwash-Regular.ttf
+
+OFL-Noto.txt
+------------
+  * NotoSansEthiopic-Black.ttf
+  * NotoSansEthiopic-Bold.ttf
+  * NotoSansEthiopic-Condensed.ttf
+  * NotoSansEthiopic-CondensedBlack.ttf
+  * NotoSansEthiopic-CondensedBold.ttf
+  * NotoSansEthiopic-CondensedExtraBold.ttf
+  * NotoSansEthiopic-CondensedExtraLight.ttf
+  * NotoSansEthiopic-CondensedLight.ttf
+  * NotoSansEthiopic-CondensedMedium.ttf
+  * NotoSansEthiopic-CondensedSemiBold.ttf
+  * NotoSansEthiopic-CondensedThin.ttf
+  * NotoSansEthiopic-ExtraBold.ttf
+  * NotoSansEthiopic-ExtraCondensed.ttf
+  * NotoSansEthiopic-ExtraCondensedBlack.ttf
+  * NotoSansEthiopic-ExtraCondensedBold.ttf
+  * NotoSansEthiopic-ExtraCondensedExtraBold.ttf
+  * NotoSansEthiopic-ExtraCondensedExtraLight.ttf
+  * NotoSansEthiopic-ExtraCondensedLight.ttf
+  * NotoSansEthiopic-ExtraCondensedMedium.ttf
+  * NotoSansEthiopic-ExtraCondensedSemiBold.ttf
+  * NotoSansEthiopic-ExtraCondensedThin.ttf
+  * NotoSansEthiopic-ExtraLight.ttf
+  * NotoSansEthiopic-Light.ttf
+  * NotoSansEthiopic-Medium.ttf
+  * NotoSansEthiopic-Regular.ttf
+  * NotoSansEthiopic-SemiBold.ttf
+  * NotoSansEthiopic-SemiCondensed.ttf
+  * NotoSansEthiopic-SemiCondensedBlack.ttf
+  * NotoSansEthiopic-SemiCondensedBold.ttf
+  * NotoSansEthiopic-SemiCondensedExtraBold.ttf
+  * NotoSansEthiopic-SemiCondensedExtraLight.ttf
+  * NotoSansEthiopic-SemiCondensedLight.ttf
+  * NotoSansEthiopic-SemiCondensedMedium.ttf
+  * NotoSansEthiopic-SemiCondensedSemiBold.ttf
+  * NotoSansEthiopic-SemiCondensedThin.ttf
+  * NotoSansEthiopic-Thin.ttf
+  * NotoSerifEthiopic-Black.ttf
+  * NotoSerifEthiopic-Bold.ttf
+  * NotoSerifEthiopic-Condensed.ttf
+  * NotoSerifEthiopic-CondensedBlack.ttf
+  * NotoSerifEthiopic-CondensedBold.ttf
+  * NotoSerifEthiopic-CondensedExtraBold.ttf
+  * NotoSerifEthiopic-CondensedExtraLight.ttf
+  * NotoSerifEthiopic-CondensedLight.ttf
+  * NotoSerifEthiopic-CondensedMedium.ttf
+  * NotoSerifEthiopic-CondensedSemiBold.ttf
+  * NotoSerifEthiopic-CondensedThin.ttf
+  * NotoSerifEthiopic-ExtraBold.ttf
+  * NotoSerifEthiopic-ExtraCondensed.ttf
+  * NotoSerifEthiopic-ExtraCondensedBlack.ttf
+  * NotoSerifEthiopic-ExtraCondensedBold.ttf
+  * NotoSerifEthiopic-ExtraCondensedExtraBold.ttf
+  * NotoSerifEthiopic-ExtraCondensedExtraLight.ttf
+  * NotoSerifEthiopic-ExtraCondensedLight.ttf
+  * NotoSerifEthiopic-ExtraCondensedMedium.ttf
+  * NotoSerifEthiopic-ExtraCondensedSemiBold.ttf
+  * NotoSerifEthiopic-ExtraCondensedThin.ttf
+  * NotoSerifEthiopic-ExtraLight.ttf
+  * NotoSerifEthiopic-Light.ttf
+  * NotoSerifEthiopic-Medium.ttf
+  * NotoSerifEthiopic-Regular.ttf
+  * NotoSerifEthiopic-SemiBold.ttf
+  * NotoSerifEthiopic-SemiCondensed.ttf
+  * NotoSerifEthiopic-SemiCondensedBlack.ttf
+  * NotoSerifEthiopic-SemiCondensedBold.ttf
+  * NotoSerifEthiopic-SemiCondensedExtraBold.ttf
+  * NotoSerifEthiopic-SemiCondensedExtraLight.ttf
+  * NotoSerifEthiopic-SemiCondensedLight.ttf
+  * NotoSerifEthiopic-SemiCondensedMedium.ttf
+  * NotoSerifEthiopic-SemiCondensedSemiBold.ttf
+  * NotoSerifEthiopic-SemiCondensedThin.ttf
+  * NotoSerifEthiopic-Thin.ttf
+
+OFL-Waldba.txt
+--------------
+  * WaldbaFantuwua-Regular.ttf
+  * WaldbaHiwua-Regular.ttf
+  * WaldbaJiret-Regular.ttf
+  * WaldbaTint-Regular.ttf
+  * WaldbaWookianos-Regular.ttf
+  * WaldbaYebse-Regular.ttf
+  * WaldbaYigezuBisratGoffer-Regular.ttf
+  * WaldbaYigezuBisratGothic-Regular.ttf
+  * WaldbaZelan-Regular.ttf
+
+GNU-GPLv2.txt
+-------------
+* FreeSerif.otf
+* gfzemenu.ttf

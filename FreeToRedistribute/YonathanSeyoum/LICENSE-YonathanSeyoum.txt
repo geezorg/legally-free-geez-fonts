@@ -1,0 +1,18 @@
+The fonts in this collection (see "Files") are designed and
+provied by Yonathan Seyoum.  They are free to use for both
+personal and commercial projects.
+
+Copyright: Copyright (c) 2019, Yonathan Seyoum.
+
+URLs:
+  * https://www.dafont.com/yonathan.d7187
+  * https://www.1001fonts.com/users/yonix/
+
+Files:
+  * ahabeshastypewriter-regular.ttf
+  * HABESHAPIXELS-Bold.ttf
+  * HABESHAPIXELS.ttf
+  * Habesha STENCIL.ttf
+  * Habesha_Blocks.ttf
+  * Habesha_Blocks_BLACK.ttf
+  * Habesha_Blocks_OUTLINES.ttf

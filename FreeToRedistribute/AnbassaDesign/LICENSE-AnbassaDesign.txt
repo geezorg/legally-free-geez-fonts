@@ -1,0 +1,40 @@
+All fonts are free for personal and commercial use.
+
+Copyright: Copyright 2020 Abraham Abebe. All Rights Reserved.
+
+
+URLs:
+  * http://anbassadesign.com/
+  * http://anbassadesign.com/type-design/
+
+Files:
+  * Adwa-Bold.ttf
+      Trademark: Adwa is a trademark of Abraham Abebe.
+  * Adwa-Regular.ttf
+      Trademark: Adwa is a trademark of Abraham Abebe.
+  * AdwaSansSerif-Bold.ttf
+      Trademark: Adwa is a trademark of Abraham Abebe.
+  * AdwaSansSerif-Regular.ttf
+      Trademark: Adwa is a trademark of Abraham Abebe.
+  * Entoto.ttf
+      Trademark: Entoto is a trademark of Abraham Abebe.
+  * Godana-Regular.ttf
+      Trademark: Godana is a trademark of Abraham Abebe.
+  * Meaza.ttf
+      Trademark: Meaza is a trademark of Abraham Abebe.
+  * Neteru.ttf
+      Trademark: Neteru is a trademark of Abraham Abebe.
+  * Shiromeda-Bold.ttf
+      Trademark: Shiromeda is a trademark of Abraham Abebe.
+  * Shiromeda-Regular.ttf
+      Trademark: Shiromeda is a trademark of Abraham Abebe.
+  * Shiromeda-SemiBold.ttf
+      Trademark: Shiromeda is a trademark of Abraham Abebe.
+  * ShiromedaSerif-Bold.ttf
+      Trademark: Shiromeda is a trademark of Abraham Abebe.
+  * ShiromedaSerif-Regular.ttf
+      Trademark: Shiromeda is a trademark of Abraham Abebe.
+  * ShiromedaSerif-SemiBold.ttf
+      Trademark: Shiromeda is a trademark of Abraham Abebe.
+  * Tayitu.ttf
+      Trademark: Tayity is a trademark of Abraham Abebe.

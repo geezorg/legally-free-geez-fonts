@@ -1,0 +1,11 @@
+The Kiros font is provided by Qedron Technologies, PLC. (ቄድሮን ቴክኖሎጂስ ኃ.የተ.የግ.ማህበር)
+and is free to use for both personal and commercial projects.
+
+Copyright: Copyright (c) 2016 by Biniam kiros. All rights reserved.
+Trademark: Kiros is a trademark of Biniam kiros.
+
+URLs:
+  * https://www.qedron.com/fonts
+
+Files: 
+  * kiros.ttf

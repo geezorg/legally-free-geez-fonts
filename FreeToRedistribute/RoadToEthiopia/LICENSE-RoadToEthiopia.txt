@@ -1,0 +1,15 @@
+The Ethiopic Addis and Ethiopic Dire Dawa fonts are designed and provided
+by Alicia Grinberg. They are free to use for both personal and commerical
+projects.
+
+Copyright: Copyright (c) 2008 by Road to Ethiopia . All rights reserved.
+
+Trademark: Road to Ethiopia is a trademark of Alicia Grinberg.
+
+URLs:
+  * https://ethiopia.limbo13.com/index.php/amharic/
+  * http://ethiopia.limbo13.com/
+
+Files:
+  * Addis.ttf
+  * Dire_Dawa.ttf
