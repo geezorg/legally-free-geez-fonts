@@ -9,8 +9,8 @@ Fonts are often shared online against the wishes of their artists
 whose livelihoods may depend on their sale. The motivation behind 
 this archive is to help clarify which fonts are free to use without
 any legal complication and which require a purchase.  When in doubt,
-check the [“Commercial” section of the Gallery](https://fonts.geez.org#Commercial) to see if a font is
-listed as "Commercial".
+check the [“Commercial” section of the Gallery](https://fonts.geez.org#Commercial) 
+to see if a font is listed there.
 
 
 ## Downloads
@@ -20,8 +20,8 @@ section.
 
 
 ## Free to Use &amp; Share
-The fonts under the [FreeToRedistribute](FreeToRedistribute) directory can be used as-is, without
-modifications, in personal and commercial projects with the creators' blessings.  Please see
+The fonts under the [FreeToRedistribute](FreeToRedistribute) directory can be used as-is, *without*
+modifications, in personal and commercial projects with the creators’ blessings.  Please see
 the individual license files for additional details and contact information for the creators.
 
 ## Free to Modify 
