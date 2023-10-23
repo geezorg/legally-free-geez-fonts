@@ -5,6 +5,7 @@ The fonts under this directory are covered by the following OpenSource licenses:
 
 ## [OFL-AbyssinicaSIL.txt](./SIL/OFL-AbyssinicaSIL.txt)
   * AbyssinicaSIL-Regular.ttf
+  * AbyssinicaSIL-Conencted-Regular.ttf
 
 ## [OFL-Brana.txt](./Brana/OFL-Brana.txt)
   * Brana-Regular.ttf

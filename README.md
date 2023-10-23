@@ -1,4 +1,5 @@
 # Legally Free Geʾez Fonts
+<img src="images/LegallyFreeGeezFontsLogo.png"/>
 
 This repository is a companion to the 
 [Gallery of Ethiopic Fonts](https://fonts.geez.org) 
