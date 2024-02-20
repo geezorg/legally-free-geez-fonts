@@ -22,6 +22,9 @@
 ## [LICENSE-HAHUU.txt](./HaaHu/LICENSE-HAHUU.txt)
 * ETH_B_GOFA.ttf
 
+## [LICENSE-HalwoteHareg.txt](HalwoteHareg/LICENSE-HalwoteHareg.txt)
+* HH Lemd Mono-Regular.otf
+
 ## [LICENSE-MetaAppz.txt](./MetaAppz/LICENSE-MetaAppz.txt)
 * Chiret-Regular.ttf
 * Seat.ttf

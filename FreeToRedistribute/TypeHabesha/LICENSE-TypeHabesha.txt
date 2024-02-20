@@ -9,7 +9,7 @@ URLs:
   * http://www.instagram.com/type_habesha/
   * http://www.instagram.com/be.hailu/
 
-License:
+Files:
   * Habesha Serif Distort Italic.ttf
   * Habesha Serif Distort.ttf
   * Zibriqriq - ዝብርቅርቅ.ttf

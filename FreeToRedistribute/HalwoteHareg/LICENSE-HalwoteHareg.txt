@@ -1,0 +1,12 @@
+The "HH Lemd Mono" font is provided by Halwote Hareg (ሀልዎተ፡ኃረግ)
+and is free to use for both personal and commercial projects.
+
+Copyright: Copyright (c) 2023 by Halwote Hareg. All rights reserved.
+Trademark: HH Lemd Mono  is a trademark of Halwote Hareg.
+
+URLs:
+  * https://t.me/halwo_hareg
+  * https://www.instagram.com/halwote.hareg/
+
+Files: 
+  * HH Lemd Mono-Regular.otf

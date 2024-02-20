@@ -10,5 +10,5 @@ URLs:
   * https://fontsgeek.com/fonts/titus-cyberbit-basic-regular
   * http://titus.uni-frankfurt.de/indexe.htm?/unicode/unitest2.htm#TITUUT
 
-Fonts:
+Files:
   * TITUS Cyberbit Basic Regular.ttf
