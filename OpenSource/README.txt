@@ -8,6 +8,10 @@ OFL-AbyssinicaSIL.txt
 ---------------------
   * AbyssinicaSIL-Regular.ttf
 
+OFL-Agbalumo.txt
+----------------
+  * Agbalumo-Regular.ttf
+
 OFL-Brana.txt
 -------------
   * Brana-Regular.ttf
@@ -46,6 +50,10 @@ OFL-GeezHandwriting.txt
   * GeezHandwritingRulesOnly.ttf
   * GeezHandwritingwithArrows.ttf
   * GeezHandwritingwithRules.ttf
+
+OFL-Menbere.txt
+----------------
+  * Menbere-VariableFont_wght.ttf
 
 OFL-Mulat.txt
 -------------
