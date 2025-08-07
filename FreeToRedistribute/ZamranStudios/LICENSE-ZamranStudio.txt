@@ -1,0 +1,16 @@
+The Zamran Studio fonts are designed and provided by Surafel Fitsum
+(surafelfitsum@gmail.com) it is free to use for personal and commercial
+projects.
+
+Copyright: Copyright 2020-2025 by Samuel Sirtse (Zamran Studio)
+
+URLs:
+  * https://t.me/zamranstudio
+  * https://www.linkedin.com/in/samuel-sertse/
+
+Files:
+  * Addis-Sans-Italic.ttf
+  * Addis-Sans.ttf
+  * Jegena-zamaric.ttf
+  * JegenaTitle-zamaric.ttf
+  * zamharic-emegua.ttf
