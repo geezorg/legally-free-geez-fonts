@@ -1,5 +1,5 @@
 The Fixedsys Excelsior font is a "pixelated" style font designed to
-emulaed bitmap computer terminal  fonts. Fixedsys Excelsior was 
+emulaetd bitmap computer terminal  fonts. Fixedsys Excelsior was 
 designed by Darien Valentine, ligatures have been added to the font
 by Kirill Pertsev.  
 
