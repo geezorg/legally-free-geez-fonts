@@ -1,0 +1,18 @@
+Ketefa is an Amharic typeface designed by Yeabsira Debebe of Dot Box Design Studio.
+It combines traditional Ethiopian script elements with a modern, clean style. 
+
+Semayawi is an Amharic typeface created by Yeabsira Debebe of Dot Box Design Studio.
+It features a versatile and contemporary design to celebrate Ethiopian script.
+
+The fonts included here are free for personal and commercial use with proper attribution.
+
+
+Copyright: Copyright 2025 by Dot Box Design Studio.
+
+URLs:
+  * https://t.me/DotBox_Design_Studio
+  * https://t.me/Yeabsira_Debebe
+
+Files:
+  * ketefa.ttf
+  * Semayawi.ttf

@@ -1,0 +1,13 @@
+The SurGraphics fonts are designed and provided by Surafel Fitsum
+(surafelfitsum@gmail.com) it is free to use for personal and commercial
+projects.
+
+Copyright: Copyright 2024 by Surafel Fitsum (SurGraphics)
+
+URLs:
+  * http://t.me/SurGraphics
+
+Files:
+  * SurGraphics Bold.ttf
+  * SurGraphics ExtraBold.ttf
+  * SurGraphics Regular.ttf

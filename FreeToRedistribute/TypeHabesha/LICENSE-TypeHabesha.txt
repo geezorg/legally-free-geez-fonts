@@ -12,4 +12,12 @@ URLs:
 Files:
   * Habesha Serif Distort Italic.ttf
   * Habesha Serif Distort.ttf
+  * Loga Bold.ttf
+  * Loga Light.ttf
+  * Loga Medium.ttf
+  * Loga Regular.ttf
+  * Loga Thin.ttf
+  * LogaDisplay-Bold.ttf
+  * LogaDisplay-Medium.ttf
+  * LogaDisplay-Regular.ttf
   * Zibriqriq - ዝብርቅርቅ.ttf
