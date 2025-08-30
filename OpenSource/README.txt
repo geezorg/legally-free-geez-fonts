@@ -16,19 +16,6 @@ OFL-Brana.txt
 -------------
   * Brana-Regular.ttf
 
-OFL-Senamirmir.txt
-------------------
-  * EthiopicAbay-Light.ttf
-  * EthiopicAbay-Regular.ttf
-  * EthiopicLeTewahedo-Bold.ttf
-  * EthiopicLeTewahedo-BoldItalic.ttf
-  * EthiopicLeTewahedo-Italic.ttf
-  * EthiopicLeTewahedo-Regular.ttf
-  * EthiopicLessan-Light.ttf
-  * EthiopicLessan-Regular.ttf
-  * EthiopicSadiss-Light.ttf
-  * EthiopicSadiss-Regular.ttf
-
 OFL-Geez-Manuscript-Zemen.txt
 -----------------------------
   * Geez-Manuscript-Zemen-COLR.ttf
@@ -50,6 +37,12 @@ OFL-GeezHandwriting.txt
   * GeezHandwritingRulesOnly.ttf
   * GeezHandwritingwithArrows.ttf
   * GeezHandwritingwithRules.ttf
+
+OFL-MetaAppz.txt
+--------------
+ * Chiret-Regular.ttf
+ * Seat-Regular.ttf
+ * Tera-Regular.ttf
 
 OFL-Menbere.txt
 ----------------
@@ -150,6 +143,19 @@ OFL-Noto.txt
   * NotoSerifEthiopic-SemiCondensedSemiBold.ttf
   * NotoSerifEthiopic-SemiCondensedThin.ttf
   * NotoSerifEthiopic-Thin.ttf
+
+OFL-Senamirmir.txt
+------------------
+  * EthiopicAbay-Light.ttf
+  * EthiopicAbay-Regular.ttf
+  * EthiopicLeTewahedo-Bold.ttf
+  * EthiopicLeTewahedo-BoldItalic.ttf
+  * EthiopicLeTewahedo-Italic.ttf
+  * EthiopicLeTewahedo-Regular.ttf
+  * EthiopicLessan-Light.ttf
+  * EthiopicLessan-Regular.ttf
+  * EthiopicSadiss-Light.ttf
+  * EthiopicSadiss-Regular.ttf
 
 OFL-Waldba.txt
 --------------

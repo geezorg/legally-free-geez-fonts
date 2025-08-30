@@ -7,20 +7,11 @@ The fonts under this directory are covered by the following OpenSource licenses:
   * AbyssinicaSIL-Regular.ttf
   * AbyssinicaSIL-Conencted-Regular.ttf
 
+## [OFL-Agbalumo.txt](./Google/OFL-Agbalumo.txt)
+  * Agbalumo-Regular.ttf
+
 ## [OFL-Brana.txt](./Brana/OFL-Brana.txt)
   * Brana-Regular.ttf
-
-## [OFL-Senamirmir.txt](./Senamirmir/[OFL-Senamirmir.txt)
-  * EthiopicAbay-Light.ttf
-  * EthiopicAbay-Regular.ttf
-  * EthiopicLeTewahedo-Bold.ttf
-  * EthiopicLeTewahedo-BoldItalic.ttf
-  * EthiopicLeTewahedo-Italic.ttf
-  * EthiopicLeTewahedo-Regular.ttf
-  * EthiopicLessan-Light.ttf
-  * EthiopicLessan-Regular.ttf
-  * EthiopicSadiss-Light.ttf
-  * EthiopicSadiss-Regular.ttf
 
 ## [OFL-Geez-Manuscript-Zemen.txt](./RaeyType/OFL-Geez-Manuscript-Zemen.txt)
   * Geez-Manuscript-Zemen-COLR.ttf
@@ -41,6 +32,14 @@ The fonts under this directory are covered by the following OpenSource licenses:
   * GeezHandwritingRulesOnly.ttf
   * GeezHandwritingwithArrows.ttf
   * GeezHandwritingwithRules.ttf
+
+## [OFL-Menbere.txt](./Google/OFL-Menbere.txt)
+  * Menbere-VariableFont\_wght.ttf
+
+## [OFL-MetaAppz.txt](./MetaAppz/OFL-MetaAppz.txt)
+  * Chiret-Regular.ttf
+  * Seat.ttf
+  * Tera.ttf
 
 ## [OFL-Mulat.txt](./Mulat/OFL-Mulat.txt)
   * MulatAbay-Black.ttf
@@ -135,6 +134,18 @@ The fonts under this directory are covered by the following OpenSource licenses:
   * NotoSerifEthiopic-SemiCondensedSemiBold.ttf
   * NotoSerifEthiopic-SemiCondensedThin.ttf
   * NotoSerifEthiopic-Thin.ttf
+
+## [OFL-Senamirmir.txt](./Senamirmir/OFL-Senamirmir.txt)
+  * EthiopicAbay-Light.ttf
+  * EthiopicAbay-Regular.ttf
+  * EthiopicLeTewahedo-Bold.ttf
+  * EthiopicLeTewahedo-BoldItalic.ttf
+  * EthiopicLeTewahedo-Italic.ttf
+  * EthiopicLeTewahedo-Regular.ttf
+  * EthiopicLessan-Light.ttf
+  * EthiopicLessan-Regular.ttf
+  * EthiopicSadiss-Light.ttf
+  * EthiopicSadiss-Regular.ttf
 
 ## [OFL-Waldba.txt](./RaeyType/OFL-Waldba.txt)
   * WaldbaFantuwua-Regular.ttf

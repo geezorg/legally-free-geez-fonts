@@ -25,25 +25,20 @@
 
 ## [LICENSE-GeezFonts.txt](./GeezFonts/LICENSE-GeezFonts.txt)
   * Geez Pixels 2.ttf
-  * GeezDigital_V1.ttf
+  * GeezDigital\_V1.ttf
 
 ## [LICENSE-HAHUU.txt](./HaaHu/LICENSE-HAHUU.txt)
-  * ETH_B_GOFA.ttf
+  * ETH\_B\_GOFA.ttf
 
 ## [LICENSE-HalwoteHareg.txt](HalwoteHareg/LICENSE-HalwoteHareg.txt)
   * HH Lemd Mono-Regular.otf
-
-## [LICENSE-MetaAppz.txt](./MetaAppz/LICENSE-MetaAppz.txt)
-  * Chiret-Regular.ttf
-  * Seat.ttf
-  * Tera.ttf
 
 ## [LICENSE-Qedron.txt](./Qedron/LICENSE-Qedron.txt)
   * kiros.ttf
 
 ## [LICENSE-RoadToEthiopia.txt](./RoadToEthiopia/LICENSE-RoadToEthiopia.txt)
   * Addis.ttf
-  * Dire_Dawa.ttf
+  * Dire\_Dawa.ttf
 
 ## [LICENSE-SurGraphics.txt](./SurGraphics/LICENSE-SurGraphics.txt)
   * SurGraphics Bold.ttf
@@ -59,17 +54,17 @@
   * Zibriqriq - ዝብርቅርቅ.ttf
 
 ## [LICENSE-Wazéma.txt](./Wazéma/LICENSE-Wazéma.txt)
-  * A0AddisAbebaUnicode_20030827.ttf
-  * A0DestaUnicode_20030827.ttf
-  * A0TesfaUnicode_20030720.ttf
+  * A0AddisAbebaUnicode\_20030827.ttf
+  * A0DestaUnicode\_20030827.ttf
+  * A0TesfaUnicode\_20030720.ttf
 
 ## [LICENSE-YonathanSeyoum.txt](./YonathanSeyoum/LICENSE-YonathanSeyoum.txt)
   * HABESHAPIXELS-Bold.ttf
   * HABESHAPIXELS.ttf
   * Habesha STENCIL.ttf
-  * Habesha_Blocks.ttf
-  * Habesha_Blocks_BLACK.ttf
-  * Habesha_Blocks_OUTLINES.ttf
+  * Habesha\_Blocks.ttf
+  * Habesha\_Blocks\_BLACK.ttf
+  * Habesha\_Blocks\_OUTLINES.ttf
   * ahabeshastypewriter-regular.ttf
 
 ## [LICENSE-ZamranStudio.txt](./ZamranStudio/LICENSE-ZamranStudio.txt)
